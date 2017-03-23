@@ -1,0 +1,6 @@
+services:
+
+    amulen_settings.parameter_repository:
+        class: Amulen\SettingsBundle\Model\ParameterRepository
+        arguments:
+          - "@service_container"

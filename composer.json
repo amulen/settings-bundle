@@ -1,0 +1,16 @@
+{
+  "name": "amulen/settings-bundle",
+  "description": "Unified settings.",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Juan Manuel Aguero",
+      "email": "juanma.aguero@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-0": {
+      "": "src/"
+    }
+  }
+}
